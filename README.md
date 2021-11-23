@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tourad009
-- 👀 I’m interested in AI, games, animes, science in general
-- 🌱 I’m currently learning Machine Learning
+- 👀 I’m interested in AI, Web Dev, games, animes, music...
+- 🌱 I’m currently learning JS
 
 <!---
 tourad009/tourad009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
