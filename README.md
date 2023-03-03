@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tourad009
-- 👀 I’m interested in AI, Web Dev, games, animes, music...
+- 👀 I’m interested in AI, Web Dev, games, animes...
 - 🌱 I’m currently learning C, Python
 
 <!---
